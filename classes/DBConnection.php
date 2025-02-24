@@ -28,4 +28,3 @@ class DBConnection{
         $this->conn->close();
     }
 }
-?>

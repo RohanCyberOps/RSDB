@@ -1,4 +1,5 @@
-<?php 
+<?php
+global $conn;
 require_once('config.php');
 if(isset($_GET['id']) && $_GET['id'] > 0){
     $qry = $conn->query("SELECT * from `announcements` where id = '{$_GET['id']}' ");
