@@ -92,6 +92,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Various open-source libraries and tools used in the development process.
 
 ## Contact
-For any inquiries or support, please contact [Rohan Naagar] at [rohannaagar666@outlook.com].
+For any inquiries or support, please contact [Rohan Naagar] at [rohannaagar666@vk.com].
 
 ---
