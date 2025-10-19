@@ -85,4 +85,4 @@ For any inquiries or support, please contact [RohanCyberOps](https://github.com/
 
 ---
 
-Thank you for using **RSDB**! We hope this banking system meets your needs and provides a smooth experience. Happy banking! 🚀
+Thank you for using **RSDB**! We hope this banking system meets your needs and provides a smooth experience. Happy banking! 
